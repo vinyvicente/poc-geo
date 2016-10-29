@@ -1,0 +1,12 @@
+{
+    "name": "vinyvicente/poc-geo",
+    "authors": [
+        {
+            "name": "Vinicius Vicente",
+            "email": "vinyvicente@gmail.com"
+        }
+    ],
+    "require": {
+        "league/geotools": "@stable"
+    }
+}
